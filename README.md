@@ -1,6 +1,6 @@
 # Hi, I'm Patricio Isaías 👋
 
-I'm a creative coder, music composer, and photographer passionate about pushing the boundaries of art and technology.
+I'm a **multimedia artist**, **educator**, and **creative technologist** based in Santiago, Chile. My passion lies in the intersection of music, photography, and generative systems. I believe in the power of art and technology to create immersive and transformative experiences.
 
 ## 🚀 Skills 
 
@@ -11,9 +11,11 @@ I'm a creative coder, music composer, and photographer passionate about pushing 
 
 ## 🎯 Projects
 
-- [**Generative Academy:**](https://www.instagram.com/generative.academy/) I founded this initiative to promote creative programming in the Spanish-speaking world.
+I founded [**Generative Academy:**](https://www.instagram.com/generative.academy/), an initiative to promote creative programming in the Spanish-speaking world. My mission is to empower individuals to explore the boundless possibilities at the intersection of art and technology. 
 
-## 💡 What I'm Currently Learning 
+## 💡 What I'm Learning 
 
 - **Node.js and APIs:** Exploring the integration of real-time data into my creative projects.
 - **German:** A2
+
+
