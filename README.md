@@ -1,6 +1,6 @@
-# Hi, I'm Patricio Isaías 👋
+# Hola, I'm Patricio 👋
 
-I'm a **multimedia artist**, **educator**, and **creative technologist** based in Santiago, Chile. My passion lies in the intersection of music, photography, and generative systems. I believe in the power of art and technology to create immersive and transformative experiences.
+I'm a **multimedia artist** and **educator** passionate about music, photography, and generative systems. I believe in the potential of creative technologies to craft immersive and transformative experiences.
 
 ## 🚀 Skills 
 
@@ -11,11 +11,11 @@ I'm a **multimedia artist**, **educator**, and **creative technologist** based i
 
 ## 🎯 Projects
 
-I founded [**Generative Academy:**](https://www.instagram.com/generative.academy/), an initiative to promote creative programming in the Spanish-speaking world. My mission is to empower individuals to explore the boundless possibilities at the intersection of art and technology. 
+I'm the founder of [Generative Academy](https://www.instagram.com/generative.academy/), an initiative aimed at promoting creative programming in the Spanish-speaking world, empowering individuals to explore their ideas at the intersection of art and technology.
 
 ## 💡 What I'm Learning 
 
-- **Node.js and APIs:** Exploring the integration of real-time data into my creative projects.
-- **German:** A2
+- [Node.js](https://nodejs.org/en) and APIs: Exploring the integration of real-time data into my creative projects.
+- [Astro](https://astro.build/) to build my future portfolio.
 
 
