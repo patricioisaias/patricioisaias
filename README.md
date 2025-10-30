@@ -1,23 +1,49 @@
-# Hola, I'm Patricio 👋
+<h1>
+  Hola! I'm Patricio 👋
+</h1>
+<h3>
+  Full-Stack Developer| Analyst Programmer Student
+</h3>
 
-I'm a **multimedia artist** and **educator** passionate about music, photography, and generative systems. I believe in the potential of creative technologies to craft immersive and transformative experiences.
+<p>
+I'm a developer based in Santiago, Chile, currently pursuing an Analyst Programmer degree at Duoc UC.
+</p>
+<p>
+My journey into tech is built on 7+ years of professional experience in the arts and music. During this time, I led multidisciplinary teams as a Project Director and founded an online academy for creative programming. This background gave me strong skills in project management and creative problem-solving, like developing interactive systems with <strong>JavaScript (p5.js)</strong>, <strong>Arduino</strong>, and <strong>Max/MSP</strong>.
+</p>
+<p>
+Now, I'm channeling that creative and analytical experience into building robust, scalable web applications. I am actively seeking new opportunities in the IT sector, with a special interest in <strong>Full-Stack Development</strong> and <strong>Cloud Computing</strong>.
+</p>
 
-## 🚀 Skills 
+---
 
-- **Programming:** I work with [p5.js](https://p5js.org/) and [Processing](https://processing.org/) for interactive and generative art projects. I make sounds with [Max](https://cycling74.com/products/max) and [Pure Data](https://puredata.info/). Strong foundation in HTML, CSS, and JavaScript.
-- **Music Production:** Creating all sorts of music with [Ableton Live](https://www.ableton.com/), [Avid Sibelius](https://www.avid.com/sibelius) for notation, and [VCV Rack](https://vcvrack.com/) for modular synthesis experiments.
-- **Photography & Design:** [Adobe Lightroom](https://www.adobe.com/products/photoshop-lightroom.html) and [Canva](https://www.canva.com/).
-- **Languages:** Fluent in Spanish, English (B2), German (A1)
+<h3 align="left">🛠️ My Tech Stack</h3>
 
-## 🎯 Projects
+<p align="left">
+  <strong>Front-End:</strong><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
+<p align="left">
+  <strong>Back-End:</strong><br>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
+</p>
+<p align="left">
+  <strong>Databases:</strong><br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+<p align="left">
+  <strong>Cloud & Tools:</strong><br>
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode&theme=dark" />
+</p>
+<p align="left">
+  <strong>Creative:</strong><br>
+  <img src="https://skillicons.dev/icons?i=p5js,processing,arduino,ableton,lightroom&theme=dark" />
+</p>
 
-I'm the founder of [Generative Academy](https://www.instagram.com/generative.academy/), an initiative aimed at promoting creative programming in the Spanish-speaking world, empowering individuals to explore their ideas at the intersection of art and technology.
+---
 
-## 💡 What I'm Learning 
+<h3 align="left">📫 Let's Connect!</h3>
 
-- [Node.js](https://nodejs.org/en) and APIs: Exploring the integration of real-time data into my creative projects.
-- [ml5.js](https://ml5js.org/) Machine learning
-- [Astro](https://astro.build/) to build my future portfolio.
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-patricioisaias-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/patricioisaias/)
+[![Email](https://img.shields.io/badge/Email-patricio.isaiascv%40gmail.com-red?logo=gmail&style=flat-square)](mailto:patricio.isaiascv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-patricioisaias-black?logo=github&style=flat-square)](https://github.com/patricioisaias)
