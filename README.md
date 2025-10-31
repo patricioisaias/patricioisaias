@@ -1,48 +1,29 @@
-<h1>
-  Hola! I'm Patricio 👋
-</h1>
-<h3>
-  Full-Stack Developer| Analyst Programmer Student
-</h3>
+# 👋 Hi, I'm Patricio
 
-<p>
-I'm a developer based in Santiago, Chile, currently pursuing an Analyst Programmer degree at Duoc UC.
-</p>
-<p>
-My journey into tech is built on 7+ years of professional experience in the arts and music. During this time, I led multidisciplinary teams as a Project Director and founded an online academy for creative programming. This background gave me strong skills in project management and creative problem-solving, like developing interactive systems with <strong>JavaScript (p5.js)</strong>, <strong>Arduino</strong>, and <strong>Max/MSP</strong>.
-</p>
-<p>
-Now, I'm channeling that creative and analytical experience into building robust, scalable web applications. I am actively seeking new opportunities in the IT sector, with a special interest in <strong>Full-Stack Development</strong> and <strong>Cloud Computing</strong>.
-</p>
+I'm a **Full-Stack Developer** and **artist** based in Santiago, Chile.  
+My journey into tech is built on **7+ years of experience** in the arts and music.  
+During this time, I led multidisciplinary teams as a **Project Director** and founded **Generative Academy**, an online platform for creative programming.
 
----
+Now, I’m channeling that creative and analytical mindset into building **scalable web applications** — with a strong interest in **Full-Stack Development** and **Cloud Computing**.
 
-<h3 align="left">🛠️ My Tech Stack</h3>
+## 🛠️ Tech Stack
 
-<p align="left">
-  <strong>Front-End:</strong><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
-<p align="left">
-  <strong>Back-End:</strong><br>
-  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
-</p>
-<p align="left">
-  <strong>Databases:</strong><br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-<p align="left">
-  <strong>Cloud & Tools:</strong><br>
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode&theme=dark" />
-</p>
-<p align="left">
-  <strong>Creative:</strong><br>
-  <img src="https://skillicons.dev/icons?i=p5js,processing,arduino,ableton,lightroom&theme=dark" />
-</p>
+#### 🧩 Front-End
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,astro&theme=dark)
 
----
+#### ⚙️ Back-End
+![Backend](https://skillicons.dev/icons?i=nodejs,java,python&theme=dark)
 
-<h3 align="left">📫 Let's Connect!</h3>
+#### 🗄️ Databases
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)
+
+#### ☁️ Cloud & Tools
+![Cloud](https://skillicons.dev/icons?i=aws,linux,git,github,vscode,notion&theme=dark)
+
+#### 🎨 Creative Tech
+![Creative](https://skillicons.dev/icons?i=p5js,processing,arduino,ableton,lightroom&theme=dark)
+
+## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-patricioisaias-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/patricioisaias/)
 [![Email](https://img.shields.io/badge/Email-patricio.isaiascv%40gmail.com-red?logo=gmail&style=flat-square)](mailto:patricio.isaiascv@gmail.com)
