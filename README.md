@@ -1,30 +1,27 @@
-# 👋 Hi, I'm Patricio
+# About me
 
-I'm a **Full-Stack Developer** and **artist** based in Santiago, Chile.  
-My journey into tech is built on **7+ years of experience** in the arts and music.  
-During this time, I led multidisciplinary teams as a **Project Director** and founded **Generative Academy**, an online platform for creative programming.
+I'm a **developer** and **artist** based in Santiago, Chile.<br>
+My journey into tech is grounded in 7+ years of experience in the **arts and music**.<br>
+Throughout that time, I’ve led multidisciplinary teams and founded an online platform dedicated to creative coding.<br>
+Now, I’m channeling that same creative and analytical mindset into building scalable and thoughtful digital products.
 
-Now, I’m channeling that creative and analytical mindset into building **scalable web applications** — with a strong interest in **Full-Stack Development** and **Cloud Computing**.
+## Tech Stack
 
-## 🛠️ Tech Stack
+#### Front-End
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,astro&theme=dark)
 
-#### 🧩 Front-End
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,astro&theme=dark)
+#### Back-End
+![Backend](https://skillicons.dev/icons?i=nodejs,python,java,spring&theme=dark)
 
-#### ⚙️ Back-End
-![Backend](https://skillicons.dev/icons?i=nodejs,java,python&theme=dark)
+#### Databases
+![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark)
 
-#### 🗄️ Databases
-![Databases](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)
+#### Cloud & Tools
+![Cloud](https://skillicons.dev/icons?i=aws,linux,git,github,vscode,notion,figma&theme=dark)
 
-#### ☁️ Cloud & Tools
-![Cloud](https://skillicons.dev/icons?i=aws,linux,git,github,vscode,notion&theme=dark)
-
-#### 🎨 Creative Tech
+#### Creative Tech
 ![Creative](https://skillicons.dev/icons?i=p5js,processing,arduino,ableton,lightroom&theme=dark)
 
-## 📫 Let's Connect!
+## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-patricioisaias-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/patricioisaias/)
-[![Email](https://img.shields.io/badge/Email-patricio.isaiascv%40gmail.com-red?logo=gmail&style=flat-square)](mailto:patricio.isaiascv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-patricioisaias-black?logo=github&style=flat-square)](https://github.com/patricioisaias)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patricioisaias) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/patricioisaias_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patricio.isaiascv@gmail.com)
