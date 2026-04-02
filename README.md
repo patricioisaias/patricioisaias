@@ -1,8 +1,6 @@
 ## About me
 
-I'm a **multidisciplinary artist** based in **Santiago, Chile**.
-
-Currently studying **Programmer Analyst at Duoc UC**, with **8+ years of experience leading interdisciplinary projects across art and technology**.
+I'm a **multidisciplinary artist** based in **Santiago, Chile**. Currently studying **Programmer Analyst at Duoc UC**, with **8+ years of experience leading interdisciplinary projects across art and technology**.
 
 My current focus is on **Backend Development**, **REST API design**, and **Cloud Architecture**.  
 I'm interested in building **scalable systems** and collaborating with teams where **analytical thinking and creative problem-solving** intersect.
