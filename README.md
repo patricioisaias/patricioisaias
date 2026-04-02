@@ -1,6 +1,6 @@
 ## About me
 
-I'm an **IT student, developer, and multidisciplinary artist** based in **Santiago, Chile**.
+I'm a **software developer and multidisciplinary artist** based in **Santiago, Chile**.
 
 Currently studying **Programmer Analyst at Duoc UC**, with **8+ years of experience leading interdisciplinary projects across art and technology**.
 
